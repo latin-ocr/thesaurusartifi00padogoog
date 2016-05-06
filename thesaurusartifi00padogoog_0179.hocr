@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./thesaurusartifi00padogoog/thesaurusartifi00padogoog_0179.png"; bbox 0 0 863 1252; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 316 50 734 80">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 316 50 734 80">
+     <span class='ocr_line' id='line_1_1' title="bbox 316 50 734 80; baseline 0.005 -2"><span class='ocrx_word' id='word_1_1' title='bbox 316 50 442 79; x_wconf 71' lang='lat' dir='ltr'>Thesauri</span> <span class='ocrx_word' id='word_1_2' title='bbox 451 50 734 80; x_wconf 74' lang='lat' dir='ltr'>niemoriae-artificiofie</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 226 87 833 176">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 226 87 833 176">
+     <span class='ocr_line' id='line_1_2' title="bbox 226 87 833 136; baseline 0.005 -13"><span class='ocrx_word' id='word_1_3' title='bbox 226 87 348 134; x_wconf 45' lang='lat' dir='ltr'>Skquitur</span> <span class='ocrx_word' id='word_1_4' title='bbox 354 98 532 135; x_wconf 84' lang='lat' dir='ltr'>Alphabetum</span> <span class='ocrx_word' id='word_1_5' title='bbox 540 98 729 135; x_wconf 82' lang='lat' dir='ltr'>arborum‚quae</span> <span class='ocrx_word' id='word_1_6' title='bbox 735 108 785 136; x_wconf 86' lang='lat' dir='ltr'>pro</span> <span class='ocrx_word' id='word_1_7' title='bbox 793 98 833 126; x_wconf 74' lang='lat' dir='ltr'>lo-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 267 135 802 176; baseline 0.002 -12"><span class='ocrx_word' id='word_1_8' title='bbox 267 139 304 165; x_wconf 79' lang='lat' dir='ltr'>cis</span> <span class='ocrx_word' id='word_1_9' title='bbox 311 140 338 167; x_wconf 72' lang='grc' dir='ltr'>δι</span> <span class='ocrx_word' id='word_1_10' title='bbox 346 137 403 175; x_wconf 83' lang='lat' dir='ltr'>ipsae</span> <span class='ocrx_word' id='word_1_11' title='bbox 412 137 561 170; x_wconf 71' lang='lat' dir='ltr'>deseruient,</span> <span class='ocrx_word' id='word_1_12' title='bbox 567 140 595 165; x_wconf 84' lang='lat'>&amp;</span> <span class='ocrx_word' id='word_1_13' title='bbox 603 135 802 176; x_wconf 57' lang='lat' dir='ltr'>optimbqpidi.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

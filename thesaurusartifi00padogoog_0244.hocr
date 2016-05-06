@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./thesaurusartifi00padogoog/thesaurusartifi00padogoog_0244.png"; bbox 0 0 863 1252; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 189 27 690 76">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 189 27 690 76">
+     <span class='ocr_line' id='line_1_1' title="bbox 189 27 690 76; baseline 0.008 -4"><span class='ocrx_word' id='word_1_1' title='bbox 189 52 191 54; x_wconf 86' lang='grc'><em>·</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 246 52 248 54; x_wconf 93' lang='grc'><strong><em>·</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 266 43 471 76; x_wconf 59' lang='lat' dir='ltr'><em>Passecundax·</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 586 27 600 55; x_wconf 11' lang='grc' dir='ltr'><em>’μ</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 649 56 690 76; x_wconf 74' lang='lat'><em>101</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 649 913 703 936">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 649 913 703 936">
+     <span class='ocr_line' id='line_1_2' title="bbox 649 913 703 936; baseline 0.019 -10"><span class='ocrx_word' id='word_1_6' title='bbox 649 913 677 927; x_wconf 59' lang='grc' dir='ltr'>Ἀ</span> <span class='ocrx_word' id='word_1_7' title='bbox 699 933 703 936; x_wconf 65' lang='lat'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 337 1018 684 1078">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 337 1018 684 1078">
+     <span class='ocr_line' id='line_1_3' title="bbox 337 1018 684 1078; baseline 0.009 -11"><span class='ocrx_word' id='word_1_8' title='bbox 337 1019 339 1022; x_wconf 78' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 443 1018 684 1078; x_wconf 51' lang='grc' dir='ltr'><em>’·ε,·«“-·’·;«·’4,·ι;;ι,ῑ;η</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
